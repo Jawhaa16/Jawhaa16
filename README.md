@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Javha | 👋 Сайн уу, би Javha
 
-💻 **Vibe Coder**  
-💻 **Vibe coding хийдэг**
+💻 **Vibe Coder** | **Vibe coding хийдэг**
 
-⚡ I write code by feeling and flow  
-⚡ Кодоо мэдрэмж, урсгалаараа бичдэг  
+⚡ I write code by feeling and flow | Кодоо мэдрэмж, урсгалаараа бичдэг  
 
-🧠 Learning by building, breaking, and rebuilding  
-🧠 Хийж үзэж, эвдэж, дахин бүтээж сурдаг  
-
+🧠 Learning by building, breaking, and rebuilding | Хийж үзэж, эвдэж, дахин бүтээж сурдаг  
 ---
 
 ## 🛠 Tech Stack | 🛠 Ашигладаг зүйлс
@@ -16,7 +12,6 @@
 - C / C++ (Arduino IDE)  
 - Basic electronics & automation  
 - Random ideas → code 😄  
-
 ---
 
 ## 🎯 Philosophy | 🎯 Миний зарчим
@@ -29,13 +24,10 @@
 ---
 
 ## 📌 Currently | 📌 Одоогоор
-- Learning IoT & automation  
-  IoT ба автоматжуулалт сурч байна  
+- Learning IoT & automation | IoT ба автоматжуулалт сурч байна  
 
-- Building small experimental projects  
-  Жижиг туршилтын төслүүд хийж байна  
+- Building small experimental projects | Жижиг туршилтын төслүүд хийж байна  
 
 ---
 
-⚠️ This GitHub is my **code playground**  
-⚠️ Энэ GitHub бол миний **кодын туршилтын талбар**
+⚠️ This GitHub is my **code playground** | Энэ GitHub бол миний **кодын туршилтын талбар**
