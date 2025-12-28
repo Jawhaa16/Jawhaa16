@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Javha | 👋 Сайн уу, би Javha
 
-<!--
-**Jawhaa16/Jawhaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Vibe Coder**  
+💻 **Vibe coding хийдэг**
 
-Here are some ideas to get you started:
+⚡ I write code by feeling and flow  
+⚡ Кодоо мэдрэмж, урсгалаараа бичдэг  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning by building, breaking, and rebuilding  
+🧠 Хийж үзэж, эвдэж, дахин бүтээж сурдаг  
+
+---
+
+## 🛠 Tech Stack | 🛠 Ашигладаг зүйлс
+- Arduino / IoT  
+- C / C++ (Arduino IDE)  
+- Basic electronics & automation  
+- Random ideas → code 😄  
+
+---
+
+## 🎯 Philosophy | 🎯 Миний зарчим
+> "Working code > perfect code"
+
+- Think more | Их бодно  
+- Talk less | Бага ярина  
+- Code more | Илүү код бичнэ  
+
+---
+
+## 📌 Currently | 📌 Одоогоор
+- Learning IoT & automation  
+  IoT ба автоматжуулалт сурч байна  
+
+- Building small experimental projects  
+  Жижиг туршилтын төслүүд хийж байна  
+
+---
+
+⚠️ This GitHub is my **code playground**  
+⚠️ Энэ GitHub бол миний **кодын туршилтын талбар**
