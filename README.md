@@ -25,7 +25,7 @@
 
 ## 📌 Currently | 📌 Одоогоор
 - Learning IoT & automation | IoT ба автоматжуулалт сурч байна  
-
+- Open Source Contributor
 - Building small experimental projects | Жижиг туршилтын төслүүд хийж байна  
 
 ---
